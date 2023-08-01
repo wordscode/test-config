@@ -19,4 +19,4 @@
 sudo apt update
 sudo apt install libfuse-dev
 
-echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
+echo 'src-git small8 https://op.dllkids.xyz/packages/aarch64_cortex-a53/' >>feeds.conf.default
